@@ -1,0 +1,7 @@
+node_modules
+uploads
+.idea
+.vscode
+*.pdf
+.env
+*.zip
